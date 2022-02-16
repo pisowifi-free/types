@@ -1,5 +1,5 @@
 {
-  "name": "@pisowifi-free/types",
+  "name": "@pisowifi/types",
   "version": "1.0.0",
   "description": "This package contains type definitions for Piso Wifi Free environment.",
   "main": "./dist/index.js",
